@@ -41,5 +41,5 @@ npm run storybook
 \`\`\`
 
 ## 📄 Documentações Adicionais
-- Decisões de Arquitetura: [ARCHITECTURE.md](./ARCHITECTURE.md)
-- Relatório de Performance: [PERFORMANCE.md](./PERFORMANCE.md)
+- Decisões de Arquitetura: [ARCHITECTURE.md](./frontend-catalog//ARCHITECTURE.md)
+- Relatório de Performance: [PERFORMANCE.md](./frontend-catalog//PERFORMANCE.md)
